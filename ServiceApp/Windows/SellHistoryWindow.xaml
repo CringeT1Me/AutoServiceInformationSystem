@@ -1,0 +1,20 @@
+﻿<Window x:Class="ServiceApp.SellHistoryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ServiceApp"
+        mc:Ignorable="d"
+        Title="SellHistoryWindow" Height="720" Width="1280" Topmost="True" Icon="/ServiceApp;component/Resources/Images/service_logo.png">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="250"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <DataGrid x:Name="historyGrid" Grid.Column="0" CanUserAddRows="False" CanUserDeleteRows="False" CanUserReorderColumns="False" IsReadOnly="True" ColumnWidth="*"></DataGrid>
+        <StackPanel Grid.Column="1">
+            <Label Content="Фильтр продуктов"></Label>
+            <ComboBox x:Name="filterBox" MaxHeight="30" VerticalAlignment="Top"></ComboBox>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,473 @@
+F:\Проекты\ServiceApp\bin\Debug\ServiceApp.exe.config
+F:\Проекты\ServiceApp\bin\Debug\ServiceApp.exe
+F:\Проекты\ServiceApp\bin\Debug\ServiceApp.pdb
+F:\Проекты\ServiceApp\obj\Debug\ServiceApp.csproj.AssemblyReference.cache
+F:\Проекты\ServiceApp\obj\Debug\ServiceApp.csproj.SuggestedBindingRedirects.cache
+F:\Проекты\ServiceApp\obj\Debug\MainWindow.g.cs
+F:\Проекты\ServiceApp\obj\Debug\App.g.cs
+F:\Проекты\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.cache
+F:\Проекты\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.lref
+F:\Проекты\ServiceApp\obj\Debug\MainWindow.baml
+F:\Проекты\ServiceApp\obj\Debug\ServiceApp.g.resources
+F:\Проекты\ServiceApp\obj\Debug\ServiceApp.Properties.Resources.resources
+F:\Проекты\ServiceApp\obj\Debug\ServiceApp.csproj.GenerateResource.cache
+F:\Проекты\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+F:\Проекты\ServiceApp\obj\Debug\ServiceApp.exe
+F:\Проекты\ServiceApp\obj\Debug\ServiceApp.pdb
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2\ServiceApp\bin\Debug\ServiceApp.exe.config
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2\ServiceApp\bin\Debug\ServiceApp.exe
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2\ServiceApp\bin\Debug\ServiceApp.pdb
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2\ServiceApp\obj\Debug\MainWindow.g.cs
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2\ServiceApp\obj\Debug\App.g.cs
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.cache
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.lref
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2\ServiceApp\obj\Debug\MainWindow.baml
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2\ServiceApp\obj\Debug\ServiceApp.g.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2\ServiceApp\obj\Debug\ServiceApp.Properties.Resources.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2\ServiceApp\obj\Debug\ServiceApp.csproj.GenerateResource.Cache
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2\ServiceApp\obj\Debug\ServiceApp.exe
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2\ServiceApp\obj\Debug\ServiceApp.pdb
+D:\Сессия 2\ServiceApp\bin\Debug\ServiceApp.exe.config
+D:\Сессия 2\ServiceApp\bin\Debug\ServiceApp.exe
+D:\Сессия 2\ServiceApp\bin\Debug\ServiceApp.pdb
+D:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.csproj.AssemblyReference.cache
+D:\Сессия 2\ServiceApp\obj\Debug\MainWindow.g.cs
+D:\Сессия 2\ServiceApp\obj\Debug\App.g.cs
+D:\Сессия 2\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.cache
+D:\Сессия 2\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.lref
+D:\Сессия 2\ServiceApp\obj\Debug\MainWindow.baml
+D:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.g.resources
+D:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.Properties.Resources.resources
+D:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.csproj.GenerateResource.cache
+D:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+D:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.exe
+D:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.pdb
+F:\Сессия 2\ServiceApp\bin\Debug\ServiceApp.exe.config
+F:\Сессия 2\ServiceApp\bin\Debug\ServiceApp.exe
+F:\Сессия 2\ServiceApp\bin\Debug\ServiceApp.pdb
+F:\Сессия 2\ServiceApp\obj\Debug\MainWindow.g.cs
+F:\Сессия 2\ServiceApp\obj\Debug\App.g.cs
+F:\Сессия 2\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.cache
+F:\Сессия 2\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.lref
+F:\Сессия 2\ServiceApp\obj\Debug\MainWindow.baml
+F:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.g.resources
+F:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.Properties.Resources.resources
+F:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.csproj.GenerateResource.Cache
+F:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+F:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.exe
+F:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.pdb
+F:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.csprojResolveAssemblyReference.cache
+G:\Сессия 2\ServiceApp\bin\Debug\ServiceApp.exe.config
+G:\Сессия 2\ServiceApp\bin\Debug\ServiceApp.exe
+G:\Сессия 2\ServiceApp\bin\Debug\ServiceApp.pdb
+G:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.csproj.AssemblyReference.cache
+G:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.csproj.SuggestedBindingRedirects.cache
+G:\Сессия 2\ServiceApp\obj\Debug\MainWindow.g.cs
+G:\Сессия 2\ServiceApp\obj\Debug\App.g.cs
+G:\Сессия 2\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.cache
+G:\Сессия 2\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.lref
+G:\Сессия 2\ServiceApp\obj\Debug\MainWindow.baml
+G:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.g.resources
+G:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.Properties.Resources.resources
+G:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.csproj.GenerateResource.cache
+G:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+G:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.exe
+G:\Сессия 2\ServiceApp\obj\Debug\ServiceApp.pdb
+G:\Сессия 2\ServiceApp\obj\Debug\AddAndEditWindow.g.cs
+G:\Сессия 2\ServiceApp\obj\Debug\AddAndEditWindow.baml
+D:\Сессия 2\ServiceApp\obj\Debug\AddAndEditWindow.g.cs
+D:\Сессия 2\ServiceApp\obj\Debug\AddAndEditWindow.baml
+D:\Сессия 2\ServiceApp\obj\Debug\ConfirmWindow.g.cs
+D:\Сессия 2\ServiceApp\obj\Debug\ConfirmWindow.baml
+G:\Сессия 2\ServiceApp\obj\Debug\ConfirmWindow.g.cs
+G:\Сессия 2\ServiceApp\obj\Debug\ConfirmWindow.baml
+F:\Сессия 2\ServiceApp\obj\Debug\AddAndEditWindow.g.cs
+F:\Сессия 2\ServiceApp\obj\Debug\ConfirmWindow.g.cs
+F:\Сессия 2\ServiceApp\obj\Debug\AddAndEditWindow.baml
+F:\Сессия 2\ServiceApp\obj\Debug\ConfirmWindow.baml
+G:\Сессия 2\ServiceApp\obj\Debug\SellHistoryWindow.g.cs
+G:\Сессия 2\ServiceApp\obj\Debug\SellHistoryWindow.baml
+G:\Сессия 2\ServiceApp\obj\Debug\EditAddictionalProductsWindow.g.cs
+G:\Сессия 2\ServiceApp\obj\Debug\EditAddictionalProductsWindow.baml
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\bin\Debug\ServiceApp.exe.config
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\bin\Debug\ServiceApp.exe
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\bin\Debug\ServiceApp.pdb
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\bin\Debug\MySql.Data.dll
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\bin\Debug\Google.Protobuf.dll
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\bin\Debug\MySql.Data.xml
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ServiceApp.csprojResolveAssemblyReference.cache
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\AddAndEditWindow.g.cs
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ConfirmWindow.g.cs
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\EditAddictionalProductsWindow.g.cs
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\MainWindow.g.cs
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\SellHistoryWindow.g.cs
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\App.g.cs
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.cache
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.lref
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\AddAndEditWindow.baml
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ConfirmWindow.baml
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\EditAddictionalProductsWindow.baml
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\MainWindow.baml
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\SellHistoryWindow.baml
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ServiceApp.g.resources
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ServiceApp.Properties.Resources.resources
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ServiceApp.csproj.GenerateResource.Cache
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ServiceApp.exe
+F:\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ServiceApp.pdb
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\bin\Debug\ServiceApp.exe.config
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\bin\Debug\ServiceApp.exe
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\bin\Debug\ServiceApp.pdb
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\bin\Debug\MySql.Data.dll
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\bin\Debug\Google.Protobuf.dll
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\bin\Debug\MySql.Data.xml
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\Windows\AddAndEditWindow.g.cs
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\Windows\ConfirmWindow.g.cs
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\Windows\EditAddictionalProductsWindow.g.cs
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\Windows\MainWindow.g.cs
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\Windows\SellHistoryWindow.g.cs
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\Windows\App.g.cs
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.cache
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.lref
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\Windows\AddAndEditWindow.baml
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\Windows\ConfirmWindow.baml
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\Windows\EditAddictionalProductsWindow.baml
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\Windows\MainWindow.baml
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\Windows\SellHistoryWindow.baml
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ServiceApp.g.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ServiceApp.Properties.Resources.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ServiceApp.csproj.GenerateResource.Cache
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ServiceApp.exe
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\Сессия 2 ультрамегаластовая SQL\ServiceApp\obj\Debug\ServiceApp.pdb
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\bin\Debug\ServiceApp.exe.config
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\bin\Debug\ServiceApp.exe
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\bin\Debug\ServiceApp.pdb
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\bin\Debug\MySql.Data.dll
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\bin\Debug\Google.Protobuf.dll
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\bin\Debug\MySql.Data.xml
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\ServiceApp.csprojResolveAssemblyReference.cache
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\Windows\AddAndEditWindow.g.cs
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\Windows\ConfirmWindow.g.cs
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\Windows\EditAddictionalProductsWindow.g.cs
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\Windows\MainWindow.g.cs
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\Windows\SellHistoryWindow.g.cs
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\Windows\App.g.cs
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.cache
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.lref
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\Windows\AddAndEditWindow.baml
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\Windows\ConfirmWindow.baml
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\Windows\EditAddictionalProductsWindow.baml
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\Windows\MainWindow.baml
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\Windows\SellHistoryWindow.baml
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\ServiceApp.g.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\ServiceApp.Properties.Resources.resources
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.GenerateResource.Cache
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\ServiceApp.exe
+\\FSStudy.marstu.net\Study\Пользователи\s1201303234\Рабочий стол\AutoService\ServiceApp\obj\Debug\ServiceApp.pdb
+F:\AutoService\ServiceApp\bin\Debug\ServiceApp.exe.config
+F:\AutoService\ServiceApp\bin\Debug\ServiceApp.exe
+F:\AutoService\ServiceApp\bin\Debug\ServiceApp.pdb
+F:\AutoService\ServiceApp\bin\Debug\MySql.Data.dll
+F:\AutoService\ServiceApp\bin\Debug\Google.Protobuf.dll
+F:\AutoService\ServiceApp\bin\Debug\MySql.Data.xml
+F:\AutoService\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.cache
+F:\AutoService\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.lref
+F:\AutoService\ServiceApp\obj\Debug\ServiceApp.g.resources
+F:\AutoService\ServiceApp\obj\Debug\ServiceApp.Properties.Resources.resources
+F:\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.GenerateResource.Cache
+F:\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+F:\AutoService\ServiceApp\obj\Debug\ServiceApp.exe
+F:\AutoService\ServiceApp\obj\Debug\ServiceApp.pdb
+F:\AutoService\ServiceApp\obj\Debug\App.g.cs
+F:\AutoService\ServiceApp\obj\Debug\ServiceApp.csprojResolveAssemblyReference.cache
+D:\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.AssemblyReference.cache
+D:\AutoService\ServiceApp\obj\Debug\App.g.cs
+D:\AutoService\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.cache
+D:\AutoService\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.lref
+D:\AutoService\ServiceApp\obj\Debug\ServiceApp.exe
+D:\AutoService\ServiceApp\obj\Debug\ServiceApp.pdb
+D:\AutoService\ServiceApp\bin\Debug\ServiceApp.exe.config
+D:\AutoService\ServiceApp\bin\Debug\ServiceApp.exe
+D:\AutoService\ServiceApp\bin\Debug\ServiceApp.pdb
+D:\AutoService\ServiceApp\obj\Debug\ServiceApp.g.resources
+D:\AutoService\ServiceApp\obj\Debug\ServiceApp.Properties.Resources.resources
+D:\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.GenerateResource.cache
+D:\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+D:\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.CopyComplete
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\Windows\AddAndEditWindow.g.cs
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\Windows\ConfirmWindow.g.cs
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\Windows\EditAddictionalProductsWindow.g.cs
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\Windows\MainWindow.g.cs
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\Windows\SellHistoryWindow.g.cs
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\App.g.cs
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.cache
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.lref
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\bin\Debug\ServiceApp.exe.config
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\bin\Debug\ServiceApp.exe
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\bin\Debug\ServiceApp.pdb
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\bin\Debug\MySql.Data.dll
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\bin\Debug\Google.Protobuf.dll
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\bin\Debug\MySql.Data.xml
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\Windows\AddAndEditWindow.baml
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\Windows\ConfirmWindow.baml
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\Windows\EditAddictionalProductsWindow.baml
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\Windows\MainWindow.baml
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\Windows\SellHistoryWindow.baml
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\ServiceApp.g.resources
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\ServiceApp.Properties.Resources.resources
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.GenerateResource.Cache
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\ServiceApp.exe
+P:\УчМат\ИсИП-41\Проекты\Некрасов Василий\AutoService\ServiceApp\obj\Debug\ServiceApp.pdb
+F:\AutoService\ServiceApp\obj\Debug\Windows\AddAndEditWindow.g.cs
+F:\AutoService\ServiceApp\obj\Debug\Windows\ConfirmWindow.g.cs
+F:\AutoService\ServiceApp\obj\Debug\Windows\EditAddictionalProductsWindow.g.cs
+F:\AutoService\ServiceApp\obj\Debug\Windows\MainWindow.g.cs
+F:\AutoService\ServiceApp\obj\Debug\Windows\SellHistoryWindow.g.cs
+F:\AutoService\ServiceApp\bin\Debug\CompanyCoreLib.dll
+F:\AutoService\ServiceApp\bin\Debug\CompanyCoreLib.pdb
+F:\AutoService\ServiceApp\obj\Debug\Windows\AddAndEditWindow.baml
+F:\AutoService\ServiceApp\obj\Debug\Windows\ConfirmWindow.baml
+F:\AutoService\ServiceApp\obj\Debug\Windows\EditAddictionalProductsWindow.baml
+F:\AutoService\ServiceApp\obj\Debug\Windows\MainWindow.baml
+F:\AutoService\ServiceApp\obj\Debug\Windows\SellHistoryWindow.baml
+G:\AutoService\ServiceApp\bin\Debug\ServiceApp.exe.config
+G:\AutoService\ServiceApp\bin\Debug\ServiceApp.exe
+G:\AutoService\ServiceApp\bin\Debug\ServiceApp.pdb
+G:\AutoService\ServiceApp\bin\Debug\CompanyCoreLib.dll
+G:\AutoService\ServiceApp\bin\Debug\Google.Protobuf.dll
+G:\AutoService\ServiceApp\bin\Debug\CompanyCoreLib.pdb
+G:\AutoService\ServiceApp\bin\Debug\MySql.Data.xml
+G:\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.AssemblyReference.cache
+G:\AutoService\ServiceApp\obj\Debug\Windows\AddAndEditWindow.g.cs
+G:\AutoService\ServiceApp\obj\Debug\Windows\ConfirmWindow.g.cs
+G:\AutoService\ServiceApp\obj\Debug\Windows\EditAddictionalProductsWindow.g.cs
+G:\AutoService\ServiceApp\obj\Debug\Windows\MainWindow.g.cs
+G:\AutoService\ServiceApp\obj\Debug\Windows\SellHistoryWindow.g.cs
+G:\AutoService\ServiceApp\obj\Debug\App.g.cs
+G:\AutoService\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.cache
+G:\AutoService\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.lref
+G:\AutoService\ServiceApp\obj\Debug\Windows\AddAndEditWindow.baml
+G:\AutoService\ServiceApp\obj\Debug\Windows\ConfirmWindow.baml
+G:\AutoService\ServiceApp\obj\Debug\Windows\EditAddictionalProductsWindow.baml
+G:\AutoService\ServiceApp\obj\Debug\Windows\MainWindow.baml
+G:\AutoService\ServiceApp\obj\Debug\Windows\SellHistoryWindow.baml
+G:\AutoService\ServiceApp\obj\Debug\ServiceApp.g.resources
+G:\AutoService\ServiceApp\obj\Debug\ServiceApp.Properties.Resources.resources
+G:\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.GenerateResource.cache
+G:\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+G:\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.CopyComplete
+G:\AutoService\ServiceApp\obj\Debug\ServiceApp.exe
+G:\AutoService\ServiceApp\obj\Debug\ServiceApp.pdb
+D:\AutoService\ServiceApp\bin\Debug\CompanyCoreLib.dll
+D:\AutoService\ServiceApp\bin\Debug\CompanyCoreLib.pdb
+D:\AutoService\ServiceApp\obj\Debug\Windows\AddAndEditWindow.g.cs
+D:\AutoService\ServiceApp\obj\Debug\Windows\ConfirmWindow.g.cs
+D:\AutoService\ServiceApp\obj\Debug\Windows\EditAddictionalProductsWindow.g.cs
+D:\AutoService\ServiceApp\obj\Debug\Windows\MainWindow.g.cs
+D:\AutoService\ServiceApp\obj\Debug\Windows\SellHistoryWindow.g.cs
+D:\AutoService\ServiceApp\obj\Debug\Windows\AddAndEditWindow.baml
+D:\AutoService\ServiceApp\obj\Debug\Windows\ConfirmWindow.baml
+D:\AutoService\ServiceApp\obj\Debug\Windows\EditAddictionalProductsWindow.baml
+D:\AutoService\ServiceApp\obj\Debug\Windows\MainWindow.baml
+D:\AutoService\ServiceApp\obj\Debug\Windows\SellHistoryWindow.baml
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Core.dll
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.CpuMath.dll
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Data.dll
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.DataView.dll
+D:\AutoService\ServiceApp\bin\Debug\Newtonsoft.Json.dll
+D:\AutoService\ServiceApp\bin\Debug\System.Buffers.dll
+D:\AutoService\ServiceApp\bin\Debug\System.CodeDom.dll
+D:\AutoService\ServiceApp\bin\Debug\System.Memory.dll
+D:\AutoService\ServiceApp\bin\Debug\System.Numerics.Vectors.dll
+D:\AutoService\ServiceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\AutoService\ServiceApp\bin\Debug\System.Threading.Channels.dll
+D:\AutoService\ServiceApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Core.xml
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.CpuMath.xml
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Data.xml
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.DataView.xml
+D:\AutoService\ServiceApp\bin\Debug\Newtonsoft.Json.xml
+D:\AutoService\ServiceApp\bin\Debug\System.Buffers.xml
+D:\AutoService\ServiceApp\bin\Debug\System.Memory.xml
+D:\AutoService\ServiceApp\bin\Debug\System.Numerics.Vectors.xml
+D:\AutoService\ServiceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\AutoService\ServiceApp\bin\Debug\System.Threading.Channels.xml
+D:\AutoService\ServiceApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.Bcl.Numerics.dll
+D:\AutoService\ServiceApp\bin\Debug\System.Numerics.Tensors.dll
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.Bcl.Numerics.xml
+D:\AutoService\ServiceApp\bin\Debug\System.Numerics.Tensors.xml
+D:\AutoService\ServiceApp\bin\Debug\MLModelLib.dll
+D:\AutoService\ServiceApp\bin\Debug\MLModelLib.pdb
+D:\AutoService\ServiceApp\bin\Debug\MLModelLib.dll.config
+E:\AutoService\ServiceApp\obj\Debug\Windows\AddAndEditWindow.g.cs
+E:\AutoService\ServiceApp\obj\Debug\Windows\ConfirmWindow.g.cs
+E:\AutoService\ServiceApp\obj\Debug\Windows\EditAddictionalProductsWindow.g.cs
+E:\AutoService\ServiceApp\obj\Debug\Windows\MainWindow.g.cs
+E:\AutoService\ServiceApp\obj\Debug\Windows\SellHistoryWindow.g.cs
+E:\AutoService\ServiceApp\obj\Debug\App.g.cs
+E:\AutoService\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.cache
+E:\AutoService\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.lref
+E:\AutoService\ServiceApp\obj\Debug\ServiceApp.exe
+E:\AutoService\ServiceApp\obj\Debug\ServiceApp.pdb
+D:\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.SuggestedBindingRedirects.cache
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Transforms.dll
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.LightGbm.dll
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.FastTree.dll
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.StandardTrainers.dll
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Transforms.xml
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.LightGbm.xml
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.FastTree.xml
+D:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.StandardTrainers.xml
+D:\AutoService\ServiceApp\bin\Debug\System.Collections.Immutable.dll
+D:\AutoService\ServiceApp\bin\Debug\System.Collections.Immutable.xml
+D:\AutoService\ServiceApp\bin\Debug\lib_lightgbm.dll
+D:\AutoService\ServiceApp\bin\Debug\lightgbm.exe
+D:\AutoService\ServiceApp\bin\Debug\CpuMathNative.dll
+D:\AutoService\ServiceApp\bin\Debug\FastTreeNative.dll
+D:\AutoService\ServiceApp\bin\Debug\LdaNative.dll
+D:\AutoService\ServiceApp\bin\Debug\MLModel.mlnet
+E:\AutoService\ServiceApp\bin\Debug\lib_lightgbm.dll
+E:\AutoService\ServiceApp\bin\Debug\lightgbm.exe
+E:\AutoService\ServiceApp\bin\Debug\CpuMathNative.dll
+E:\AutoService\ServiceApp\bin\Debug\FastTreeNative.dll
+E:\AutoService\ServiceApp\bin\Debug\LdaNative.dll
+E:\AutoService\ServiceApp\bin\Debug\MLModel.mlnet
+E:\AutoService\ServiceApp\bin\Debug\ServiceApp.exe.config
+E:\AutoService\ServiceApp\bin\Debug\ServiceApp.exe
+E:\AutoService\ServiceApp\bin\Debug\ServiceApp.pdb
+E:\AutoService\ServiceApp\bin\Debug\CompanyCoreLib.dll
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.Bcl.Numerics.dll
+E:\AutoService\ServiceApp\bin\Debug\MLModelLib.dll
+E:\AutoService\ServiceApp\bin\Debug\Newtonsoft.Json.dll
+E:\AutoService\ServiceApp\bin\Debug\System.Buffers.dll
+E:\AutoService\ServiceApp\bin\Debug\System.CodeDom.dll
+E:\AutoService\ServiceApp\bin\Debug\System.Memory.dll
+E:\AutoService\ServiceApp\bin\Debug\System.Numerics.Tensors.dll
+E:\AutoService\ServiceApp\bin\Debug\System.Numerics.Vectors.dll
+E:\AutoService\ServiceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\AutoService\ServiceApp\bin\Debug\System.Threading.Channels.dll
+E:\AutoService\ServiceApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Data.dll
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Core.dll
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.DataView.dll
+E:\AutoService\ServiceApp\bin\Debug\System.Collections.Immutable.dll
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Transforms.dll
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.LightGbm.dll
+E:\AutoService\ServiceApp\bin\Debug\Google.Protobuf.dll
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.CpuMath.dll
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.FastTree.dll
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.StandardTrainers.dll
+E:\AutoService\ServiceApp\bin\Debug\CompanyCoreLib.pdb
+E:\AutoService\ServiceApp\bin\Debug\MLModelLib.pdb
+E:\AutoService\ServiceApp\bin\Debug\MLModelLib.dll.config
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.Bcl.Numerics.xml
+E:\AutoService\ServiceApp\bin\Debug\MySql.Data.xml
+E:\AutoService\ServiceApp\bin\Debug\Newtonsoft.Json.xml
+E:\AutoService\ServiceApp\bin\Debug\System.Buffers.xml
+E:\AutoService\ServiceApp\bin\Debug\System.Memory.xml
+E:\AutoService\ServiceApp\bin\Debug\System.Numerics.Tensors.xml
+E:\AutoService\ServiceApp\bin\Debug\System.Numerics.Vectors.xml
+E:\AutoService\ServiceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\AutoService\ServiceApp\bin\Debug\System.Threading.Channels.xml
+E:\AutoService\ServiceApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Data.xml
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Core.xml
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.DataView.xml
+E:\AutoService\ServiceApp\bin\Debug\System.Collections.Immutable.xml
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Transforms.xml
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.LightGbm.xml
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.CpuMath.xml
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.FastTree.xml
+E:\AutoService\ServiceApp\bin\Debug\Microsoft.ML.StandardTrainers.xml
+E:\AutoService\ServiceApp\obj\Debug\Windows\AddAndEditWindow.baml
+E:\AutoService\ServiceApp\obj\Debug\Windows\ConfirmWindow.baml
+E:\AutoService\ServiceApp\obj\Debug\Windows\EditAddictionalProductsWindow.baml
+E:\AutoService\ServiceApp\obj\Debug\Windows\MainWindow.baml
+E:\AutoService\ServiceApp\obj\Debug\Windows\SellHistoryWindow.baml
+E:\AutoService\ServiceApp\obj\Debug\ServiceApp.g.resources
+E:\AutoService\ServiceApp\obj\Debug\ServiceApp.Properties.Resources.resources
+E:\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.GenerateResource.Cache
+E:\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+E:\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.AssemblyReference.cache
+E:\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.CopyComplete
+D:\AutoService\ServiceApp\bin\Debug\Google.Protobuf.dll
+D:\AutoService\ServiceApp\bin\Debug\MySql.Data.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\lib_lightgbm.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\lightgbm.exe
+F:\Проекты\AutoService\ServiceApp\bin\Debug\CpuMathNative.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\FastTreeNative.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\LdaNative.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\MLModel.mlnet
+F:\Проекты\AutoService\ServiceApp\bin\Debug\ServiceApp.exe.config
+F:\Проекты\AutoService\ServiceApp\bin\Debug\ServiceApp.exe
+F:\Проекты\AutoService\ServiceApp\bin\Debug\ServiceApp.pdb
+F:\Проекты\AutoService\ServiceApp\bin\Debug\CompanyCoreLib.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.Bcl.Numerics.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\MLModelLib.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Newtonsoft.Json.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\System.Buffers.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\System.CodeDom.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\System.Memory.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\System.Numerics.Tensors.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\System.Numerics.Vectors.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\System.Threading.Channels.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Data.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Core.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.ML.DataView.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\System.Collections.Immutable.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Transforms.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.ML.LightGbm.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Google.Protobuf.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.ML.CpuMath.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.ML.FastTree.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.ML.StandardTrainers.dll
+F:\Проекты\AutoService\ServiceApp\bin\Debug\CompanyCoreLib.pdb
+F:\Проекты\AutoService\ServiceApp\bin\Debug\MLModelLib.pdb
+F:\Проекты\AutoService\ServiceApp\bin\Debug\MLModelLib.dll.config
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.Bcl.Numerics.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\MySql.Data.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Newtonsoft.Json.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\System.Buffers.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\System.Memory.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\System.Numerics.Tensors.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\System.Numerics.Vectors.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\System.Threading.Channels.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Data.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Core.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.ML.DataView.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\System.Collections.Immutable.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.ML.Transforms.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.ML.LightGbm.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.ML.CpuMath.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.ML.FastTree.xml
+F:\Проекты\AutoService\ServiceApp\bin\Debug\Microsoft.ML.StandardTrainers.xml
+F:\Проекты\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.AssemblyReference.cache
+F:\Проекты\AutoService\ServiceApp\obj\Debug\Windows\AddAndEditWindow.g.cs
+F:\Проекты\AutoService\ServiceApp\obj\Debug\Windows\ConfirmWindow.g.cs
+F:\Проекты\AutoService\ServiceApp\obj\Debug\Windows\EditAddictionalProductsWindow.g.cs
+F:\Проекты\AutoService\ServiceApp\obj\Debug\Windows\MainWindow.g.cs
+F:\Проекты\AutoService\ServiceApp\obj\Debug\Windows\SellHistoryWindow.g.cs
+F:\Проекты\AutoService\ServiceApp\obj\Debug\App.g.cs
+F:\Проекты\AutoService\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.cache
+F:\Проекты\AutoService\ServiceApp\obj\Debug\ServiceApp_MarkupCompile.lref
+F:\Проекты\AutoService\ServiceApp\obj\Debug\Windows\AddAndEditWindow.baml
+F:\Проекты\AutoService\ServiceApp\obj\Debug\Windows\ConfirmWindow.baml
+F:\Проекты\AutoService\ServiceApp\obj\Debug\Windows\EditAddictionalProductsWindow.baml
+F:\Проекты\AutoService\ServiceApp\obj\Debug\Windows\MainWindow.baml
+F:\Проекты\AutoService\ServiceApp\obj\Debug\Windows\SellHistoryWindow.baml
+F:\Проекты\AutoService\ServiceApp\obj\Debug\ServiceApp.g.resources
+F:\Проекты\AutoService\ServiceApp\obj\Debug\ServiceApp.Properties.Resources.resources
+F:\Проекты\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.GenerateResource.cache
+F:\Проекты\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+F:\Проекты\AutoService\ServiceApp\obj\Debug\ServiceApp.csproj.CopyComplete
+F:\Проекты\AutoService\ServiceApp\obj\Debug\ServiceApp.exe
+F:\Проекты\AutoService\ServiceApp\obj\Debug\ServiceApp.pdb
